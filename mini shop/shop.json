@@ -1,0 +1,50 @@
+[
+    {
+        "Product": "cheese",
+        "ID": 100,
+        "Price": 15,
+        "Quantity": 3
+    },
+    {
+        "Product": "bread",
+        "ID": 102,
+        "Price": 30,
+        "Quantity": 6
+    },
+    {
+        "Product": "coke",
+        "ID": 1222,
+        "Price": 25,
+        "Quantity": 9
+    },
+    {
+        "Product": "diet coke",
+        "ID": 103,
+        "Price": 40,
+        "Quantity": -1
+    },
+    {
+        "Product": "chips",
+        "ID": 203,
+        "Price": 10,
+        "Quantity": 15
+    },
+    {
+        "Product": "bisleri ",
+        "ID": 123,
+        "Price": 10,
+        "Quantity": 5
+    },
+    {
+        "Product": "bread",
+        "ID": 102,
+        "Price": 30,
+        "Quantity": 5
+    },
+    {
+        "Product": "coke",
+        "ID": 1222,
+        "Price": 25,
+        "Quantity": 6
+    }
+]
